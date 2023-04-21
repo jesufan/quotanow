@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "myquotanow-beta",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
